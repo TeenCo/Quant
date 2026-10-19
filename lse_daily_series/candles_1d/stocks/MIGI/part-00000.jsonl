@@ -1,0 +1,1 @@
+{"source":"LSE","dataset":"stocks","symbol":"MIGI","resolution":"1d","request_start":"2026-04-28","request_end":"2026-04-29","catalog_snapshot":"lse_catalog_20261018T135141Z.json","retrieved_at_utc":"2026-10-18T16:19:29+00:00","row":{"symbol":"MIGI","open":6.04,"high":6.04,"low":3.59,"close":4.37,"volume":1809102,"timestamp":"2026-04-28T00:00:00.000000Z"}}

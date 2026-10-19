@@ -1,0 +1,29 @@
+{
+  "source": "LSE metadata preflight",
+  "retrieved_at_utc": "2026-10-18T13:48:03+00:00",
+  "sdk_version": "0.14.0",
+  "history_downloaded": false,
+  "metadata": {},
+  "errors": [
+    {
+      "endpoint": "vault_meta",
+      "error_type": "LSEError",
+      "http_status": 401
+    },
+    {
+      "endpoint": "catalog",
+      "error_type": "LSEError",
+      "http_status": 401
+    },
+    {
+      "endpoint": "reference_inventory",
+      "error_type": "LSEError",
+      "http_status": 401
+    },
+    {
+      "endpoint": "usage",
+      "error_type": "LSEError",
+      "http_status": 401
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"source":"LSE","dataset":"corporate_bonds","symbol":"INIBULPP","resolution":"native_series","request_start":"2020-01-01","request_end":"2024-01-02","catalog_snapshot":"lse_catalog_20261018T135141Z.json","retrieved_at_utc":"2026-10-18T16:15:01+00:00","row":{"symbol":"INIBULPP","date":"2021-01-01","value":110.2944}}
